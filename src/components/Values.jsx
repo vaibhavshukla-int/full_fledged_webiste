@@ -1,7 +1,7 @@
 import Image from '../images/values.jpg';
 import SectionHead from './SectionHead';
 import { GiCutDiamond } from 'react-icons/gi';
-import { values } from '../data';
+import { values } from '../data.js';
 import Cards from '../UI/Cards';
 import { SiOpenaigym } from 'react-icons/si';
 

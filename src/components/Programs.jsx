@@ -1,6 +1,6 @@
 import { FaCrown } from 'react-icons/fa';
 import SectionHead from './SectionHead';
-import { programs } from '../data';
+import { programs } from '../data.js';
 import Cards from '../UI/Cards';
 import { SiOpenaigym } from 'react-icons/si';
 import { AiFillCaretRight } from 'react-icons/ai';
