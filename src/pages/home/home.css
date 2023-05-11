@@ -43,16 +43,17 @@
   background: linear-gradient(75deg, var(--color-secondary), transparent);
   border-radius: 50%;
   position: absolute;
-  transition: (--transition);
+  filter: blur(15px);
+  /* transition: (--transition); */
 }
 
 .main__header-image {
   position: relative;
 }
 
-.main__header-right:hover .main__header-circle {
+/* .main__header-right:hover .main__header-circle {
   filter: blur(15px);
-}
+} */
 
 /* ======================== PROGRAMS ======================== */
 
