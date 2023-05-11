@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import Logo from '../images/logo.png';
 import { FaLinkedin } from 'react-icons/fa';
-import { FaFacebook } from 'react-icons/fa';
+import { FaFacebookF } from 'react-icons/fa';
 import { AiOutlineTwitter } from 'react-icons/ai';
 import { AiFillInstagram } from 'react-icons/ai';
 
@@ -30,7 +30,7 @@ const Footer = () => {
               target="_blank"
               rel="noreferrer noopener"
             >
-              <FaFacebook />
+              <FaFacebookF />
             </a>
             <a
               href="https://www.twitter.com"
